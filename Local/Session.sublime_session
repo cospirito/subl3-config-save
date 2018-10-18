@@ -1,0 +1,952 @@
+{
+	"folder_history":
+	[
+		"/projet/gde",
+		"/projet/public/laboviews",
+		"/projet/public/gucesgbci",
+		"/projet/docubase/WSGUCE/Documentation tests avec Restlet",
+		"/projet/docubase/WSGUCE/gucesgbci",
+		"/projet/public/labo/labo",
+		"/projet/public/alltemp/temp12",
+		"/projet/public/appxmlextractor",
+		"/projet/public/alltemp/menuderoul",
+		"/projet/public/alltemp/temp01",
+		"/home/marcguei/Téléchargements/18-First",
+		"/home/marcguei/www.linfodrome.com",
+		"/projet/public/applb",
+		"/media/marcguei/GRMCPRFRER_FR_DVD/gedocevents",
+		"/projet/private/gde",
+		"/media/marcguei/E874266974263B28/Allprojet/gedocevents"
+	],
+	"last_version": 3176,
+	"last_window_id": 44,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"simplexml",
+						"simplexml_load_string"
+					],
+					[
+						"http_buil",
+						"http_build_query"
+					],
+					[
+						"arr",
+						"array\t$… = array (…)"
+					],
+					[
+						"link",
+						"linkinfo"
+					],
+					[
+						"read",
+						"readfile"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"bui",
+						"http_build_query"
+					],
+					[
+						"tvf",
+						"tvfid"
+					],
+					[
+						"a",
+						"array\t$… = array (…)"
+					],
+					[
+						"stream_context_create",
+						"stream_context_create"
+					],
+					[
+						"base64",
+						"base64_encode"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"key",
+						"keyfind"
+					],
+					[
+						"tab",
+						"tablekey"
+					],
+					[
+						"gro",
+						"groupname"
+					],
+					[
+						"array_key",
+						"array_key_exists"
+					],
+					[
+						"in",
+						"ind"
+					],
+					[
+						"for",
+						"for\tfor …"
+					],
+					[
+						"arraykey",
+						"array_keys"
+					],
+					[
+						"els",
+						"elles"
+					],
+					[
+						"tr",
+						"trouver"
+					],
+					[
+						"obj",
+						"obj"
+					],
+					[
+						"ob",
+						"obj"
+					],
+					[
+						"this",
+						"this-"
+					],
+					[
+						"user",
+						"users"
+					],
+					[
+						"condt",
+						"condtest"
+					],
+					[
+						"STRING",
+						"is_string"
+					],
+					[
+						"long",
+						"longname"
+					],
+					[
+						"x",
+						"xmlfile"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"simple",
+						"simplexml_load_file"
+					],
+					[
+						"array",
+						"array"
+					],
+					[
+						"base",
+						"base"
+					],
+					[
+						"exp",
+						"explode"
+					],
+					[
+						"bgco",
+						"background-color\tproperty"
+					],
+					[
+						"font",
+						"font-style\tproperty"
+					],
+					[
+						"aarkey",
+						"array_key_exists"
+					],
+					[
+						"box",
+						"box-shadow\tproperty"
+					],
+					[
+						"te",
+						"text-transform\tproperty"
+					],
+					[
+						"re",
+						"red"
+					],
+					[
+						"pos",
+						"position\tproperty"
+					],
+					[
+						"e",
+						"inherit\ttext-shadow"
+					],
+					[
+						"tex",
+						"text-shadow\tproperty"
+					],
+					[
+						"texta",
+						"text-align\tproperty"
+					],
+					[
+						"nom",
+						"nomvew"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"lierel",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/projet/public/laboviews/search.php",
+				"/projet/public/laboviews/grid.php",
+				"/projet/public/laboviews/navbar.php",
+				"/projet/public/laboviews/search.css",
+				"/projet/public/laboviews/reqagrishop.sql",
+				"/projet/public/laboviews/pagination.php",
+				"/projet/public/gucesgbci/askguce.php",
+				"/projet/public/gucesgbci/getxml.js",
+				"/projet/public/gucesgbci/getXMLF.html",
+				"/projet/public/gucesgbci/perio.xml",
+				"/projet/public/gucesgbci/httpCLient.js",
+				"/projet/public/gucesgbci/elementary.php",
+				"/projet/public/laboviews/seach.css",
+				"/projet/public/laboviews/dropdown.php",
+				"/projet/public/laboviews/dropdown.css",
+				"/projet/public/laboviews/navbar.css",
+				"/projet/gde/views/errors/404.php",
+				"/projet/gde/views/layout/index.php",
+				"/projet/gde/coeur/Dispatcher.php",
+				"/projet/gde/coeur/Functions.php",
+				"/projet/public/alltemp/temp12/index-property-slide.html",
+				"/projet/public/alltemp/temp12/css/menu.css",
+				"/projet/public/alltemp/temp12/css/template/navbar.css",
+				"/projet/public/alltemp/temp12/css/template/color/1FB7A6.css",
+				"/projet/public/alltemp/temp12/css/template/color/color.css",
+				"/projet/public/alltemp/temp12/agencies-listing.html",
+				"/projet/public/alltemp/temp12/blog-v3.html",
+				"/projet/public/alltemp/temp12/index.php",
+				"/projet/public/alltemp/temp12/css/template/color/16A085.css",
+				"/projet/gde/controlleurs/Pagescontroller.php",
+				"/home/marcguei/Bureau/reqagrishop.sql",
+				"/projet/public/appxmlextractor/algoapp.txt",
+				"/projet/public/appxmlextractor/algo.xml",
+				"/projet/public/appxmlextractor/Users.php",
+				"/projet/public/appxmlextractor/goodformat.xml",
+				"/projet/public/appxmlextractor/indx2.php",
+				"/projet/public/appxmlextractor/index.php",
+				"/home/marcguei/Bureau/export.xml",
+				"/projet/gde/views/pages/testmenu.php",
+				"/projet/gde/views/pages/tesmodal.php",
+				"/projet/gde/webroot/css/api.css",
+				"/media/marcguei/GRMCPRFRER_FR_DVD/index.php",
+				"/projet/gde/webroot/js/basic.js",
+				"/projet/gde/views/pages/index.php",
+				"/etc/php/7.2/apache2/php.ini",
+				"/etc/apache2/apache2.conf",
+				"/projet/public/alltemp/temp01/css/agency.min.css",
+				"/projet/public/alltemp/temp01/css/agency.css",
+				"/projet/public/alltemp/temp01/img/imgsTest/accord.png",
+				"/projet/public/alltemp/temp01/img/imgsTest/alllokopoulmeet.jpeg",
+				"/projet/gde/views/pages/view.php",
+				"/projet/gde/views/pages/addsoci.php",
+				"/projet/gde/webroot/js/formtach.js",
+				"/projet/gde/webroot/bootstrap-3.3.7/dataTable/select.dt.min.css",
+				"/projet/gde/views/pages/activites.php",
+				"/projet/gde/views/pages/tableau-historique.php",
+				"/projet/gde/views/pages/tableau-societe.php",
+				"/projet/gde/views/pages/tableau-tache.php",
+				"/projet/gde/views/pages/taches.php",
+				"/projet/gde/webroot/js/Formtache.js",
+				"/projet/public/applb/Loadbalancing.php",
+				"/projet/public/applb/test01.php",
+				"/projet/gde/testregex.html",
+				"/projet/gde/coeur/Controller.php",
+				"/projet/gde/webroot/bootstrap-3.3.7/dataTable/datatables.min.css",
+				"/projet/gde/views/pages/ajoutertache.php",
+				"/projet/gde/webroot/index.php",
+				"/projet/gde/modele/TacheAgent.php",
+				"/projet/gde/views/layout/default.php",
+				"/projet/gde/views/pages/admin.php",
+				"/projet/gde/webroot/bootstrap-3.3.7/events.css",
+				"/projet/gde/webroot/css/error.css",
+				"/projet/gde/views/pages/reserve.php",
+				"/projet/gde/webroot/css/login.css",
+				"/projet/gde/coeur/Alerte.php",
+				"/projet/gde/coeur/Model.php",
+				"/projet/gde/coeur/Router.php",
+				"/projet/gde/modele/Modifier.php",
+				"/projet/gde/modele/Suprimer.php",
+				"/projet/gde/webroot/Testes/crontab.php",
+				"/projet/gde/views/users/login.php",
+				"/projet/gde/controlleurs/Userscontroller.php",
+				"/etc/apache2/sites-available/gde-app.conf",
+				"/etc/hosts",
+				"/etc/host",
+				"/projet/gde/views/Users/login.php",
+				"/etc/php/7.0/apache2/php.ini"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					" Product title",
+					"Nom du produit",
+					"caret",
+					"Add to cart",
+					"$21.000",
+					"Add to cart"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"Titre produit",
+					"Produit",
+					"Commander",
+					"Nom du produit",
+					"Commander"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 50.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 94.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 225.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"simplexml",
+						"simplexml_load_string"
+					],
+					[
+						"http_buil",
+						"http_build_query"
+					],
+					[
+						"arr",
+						"array\t$… = array (…)"
+					],
+					[
+						"link",
+						"linkinfo"
+					],
+					[
+						"read",
+						"readfile"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"bui",
+						"http_build_query"
+					],
+					[
+						"tvf",
+						"tvfid"
+					],
+					[
+						"a",
+						"array\t$… = array (…)"
+					],
+					[
+						"stream_context_create",
+						"stream_context_create"
+					],
+					[
+						"base64",
+						"base64_encode"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"key",
+						"keyfind"
+					],
+					[
+						"tab",
+						"tablekey"
+					],
+					[
+						"gro",
+						"groupname"
+					],
+					[
+						"array_key",
+						"array_key_exists"
+					],
+					[
+						"in",
+						"ind"
+					],
+					[
+						"for",
+						"for\tfor …"
+					],
+					[
+						"arraykey",
+						"array_keys"
+					],
+					[
+						"els",
+						"elles"
+					],
+					[
+						"tr",
+						"trouver"
+					],
+					[
+						"obj",
+						"obj"
+					],
+					[
+						"ob",
+						"obj"
+					],
+					[
+						"this",
+						"this-"
+					],
+					[
+						"user",
+						"users"
+					],
+					[
+						"condt",
+						"condtest"
+					],
+					[
+						"STRING",
+						"is_string"
+					],
+					[
+						"long",
+						"longname"
+					],
+					[
+						"x",
+						"xmlfile"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"simple",
+						"simplexml_load_file"
+					],
+					[
+						"array",
+						"array"
+					],
+					[
+						"base",
+						"base"
+					],
+					[
+						"exp",
+						"explode"
+					],
+					[
+						"bgco",
+						"background-color\tproperty"
+					],
+					[
+						"font",
+						"font-style\tproperty"
+					],
+					[
+						"aarkey",
+						"array_key_exists"
+					],
+					[
+						"box",
+						"box-shadow\tproperty"
+					],
+					[
+						"te",
+						"text-transform\tproperty"
+					],
+					[
+						"re",
+						"red"
+					],
+					[
+						"pos",
+						"position\tproperty"
+					],
+					[
+						"e",
+						"inherit\ttext-shadow"
+					],
+					[
+						"tex",
+						"text-shadow\tproperty"
+					],
+					[
+						"texta",
+						"text-align\tproperty"
+					],
+					[
+						"nom",
+						"nomvew"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"lierel",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/projet/gde",
+				"/projet/gde/webroot",
+				"/projet/gde/webroot/css"
+			],
+			"file_history":
+			[
+				"/projet/public/laboviews/search.php",
+				"/projet/public/laboviews/grid.php",
+				"/projet/public/laboviews/navbar.php",
+				"/projet/public/laboviews/search.css",
+				"/projet/public/laboviews/reqagrishop.sql",
+				"/projet/public/laboviews/pagination.php",
+				"/projet/public/gucesgbci/askguce.php",
+				"/projet/public/gucesgbci/getxml.js",
+				"/projet/public/gucesgbci/getXMLF.html",
+				"/projet/public/gucesgbci/perio.xml",
+				"/projet/public/gucesgbci/httpCLient.js",
+				"/projet/public/gucesgbci/elementary.php",
+				"/projet/public/laboviews/seach.css",
+				"/projet/public/laboviews/dropdown.php",
+				"/projet/public/laboviews/dropdown.css",
+				"/projet/public/laboviews/navbar.css",
+				"/projet/gde/views/errors/404.php",
+				"/projet/gde/views/layout/index.php",
+				"/projet/gde/coeur/Dispatcher.php",
+				"/projet/gde/coeur/Functions.php",
+				"/projet/public/alltemp/temp12/index-property-slide.html",
+				"/projet/public/alltemp/temp12/css/menu.css",
+				"/projet/public/alltemp/temp12/css/template/navbar.css",
+				"/projet/public/alltemp/temp12/css/template/color/1FB7A6.css",
+				"/projet/public/alltemp/temp12/css/template/color/color.css",
+				"/projet/public/alltemp/temp12/agencies-listing.html",
+				"/projet/public/alltemp/temp12/blog-v3.html",
+				"/projet/public/alltemp/temp12/index.php",
+				"/projet/public/alltemp/temp12/css/template/color/16A085.css",
+				"/projet/gde/controlleurs/Pagescontroller.php",
+				"/home/marcguei/Bureau/reqagrishop.sql",
+				"/projet/public/appxmlextractor/algoapp.txt",
+				"/projet/public/appxmlextractor/algo.xml",
+				"/projet/public/appxmlextractor/Users.php",
+				"/projet/public/appxmlextractor/goodformat.xml",
+				"/projet/public/appxmlextractor/indx2.php",
+				"/projet/public/appxmlextractor/index.php",
+				"/home/marcguei/Bureau/export.xml",
+				"/projet/gde/views/pages/testmenu.php",
+				"/projet/gde/views/pages/tesmodal.php",
+				"/projet/gde/webroot/css/api.css",
+				"/media/marcguei/GRMCPRFRER_FR_DVD/index.php",
+				"/projet/gde/webroot/js/basic.js",
+				"/projet/gde/views/pages/index.php",
+				"/etc/php/7.2/apache2/php.ini",
+				"/etc/apache2/apache2.conf",
+				"/projet/public/alltemp/temp01/css/agency.min.css",
+				"/projet/public/alltemp/temp01/css/agency.css",
+				"/projet/public/alltemp/temp01/img/imgsTest/accord.png",
+				"/projet/public/alltemp/temp01/img/imgsTest/alllokopoulmeet.jpeg",
+				"/projet/gde/views/pages/view.php",
+				"/projet/gde/views/pages/addsoci.php",
+				"/projet/gde/webroot/js/formtach.js",
+				"/projet/gde/webroot/bootstrap-3.3.7/dataTable/select.dt.min.css",
+				"/projet/gde/views/pages/activites.php",
+				"/projet/gde/views/pages/tableau-historique.php",
+				"/projet/gde/views/pages/tableau-societe.php",
+				"/projet/gde/views/pages/tableau-tache.php",
+				"/projet/gde/views/pages/taches.php",
+				"/projet/gde/webroot/js/Formtache.js",
+				"/projet/public/applb/Loadbalancing.php",
+				"/projet/public/applb/test01.php",
+				"/projet/gde/testregex.html",
+				"/projet/gde/coeur/Controller.php",
+				"/projet/gde/webroot/bootstrap-3.3.7/dataTable/datatables.min.css",
+				"/projet/gde/views/pages/ajoutertache.php",
+				"/projet/gde/webroot/index.php",
+				"/projet/gde/modele/TacheAgent.php",
+				"/projet/gde/views/layout/default.php",
+				"/projet/gde/views/pages/admin.php",
+				"/projet/gde/webroot/bootstrap-3.3.7/events.css",
+				"/projet/gde/webroot/css/error.css",
+				"/projet/gde/views/pages/reserve.php",
+				"/projet/gde/webroot/css/login.css",
+				"/projet/gde/coeur/Alerte.php",
+				"/projet/gde/coeur/Model.php",
+				"/projet/gde/coeur/Router.php",
+				"/projet/gde/modele/Modifier.php",
+				"/projet/gde/modele/Suprimer.php",
+				"/projet/gde/webroot/Testes/crontab.php",
+				"/projet/gde/views/users/login.php",
+				"/projet/gde/controlleurs/Userscontroller.php",
+				"/etc/apache2/sites-available/gde-app.conf",
+				"/etc/hosts",
+				"/etc/host",
+				"/projet/gde/views/Users/login.php",
+				"/etc/php/7.0/apache2/php.ini"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/projet/gde"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 50.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 94.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,72,56,712,536,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 225.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 44,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
